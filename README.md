@@ -35,22 +35,25 @@ the highest average profit per order. Books is the least profitable
 at approximately 12% margin — high shipping costs relative to low 
 selling prices wipe out most of the revenue.
 
-![Category Profitability Chart](screenshots/category_profitability.png)
+<img width="319" height="177" alt="Category Profitability" src="https://github.com/user-attachments/assets/d2cb215d-0e54-4c8b-9b2c-f04bbecc276b" />
+
 
 ### 2. Channel Analysis
 Mobile App is the best performing sales channel at 25.9% margin. 
 Marketplace is the worst at 11.2% — platform fees of $7,950 heavily 
 cut into what would otherwise be a healthy margin.
 
-![Channel Analysis Chart](screenshots/channel_analysis.png)
+<img width="362" height="215" alt="Channel Analysis" src="https://github.com/user-attachments/assets/6a9e6fe2-013f-4ddd-a2ee-b240b9640cd6" />
+
 
 ### 3. Return Rate Analysis
 144 out of 2,000 orders were returned — a 7.2% overall return rate 
 resulting in $22,207 in lost revenue. Electronics has the highest 
 return rate at 8.6% and Social Commerce has the worst channel return 
 rate at 9.1%.
+<img width="386" height="215" alt="Return Rate" src="https://github.com/user-attachments/assets/734450a6-749e-41ad-97a3-21f6304324e6" />
 
-![Return Rate Chart](screenshots/return_rate.png)
+
 
 ### 4. Marketing ROAS Analysis
 TikTok Ads delivers the highest ROAS at the lowest cost per 
@@ -60,7 +63,8 @@ than TikTok. December 2025 was the only month in the entire dataset
 where ROAS dropped below 1.0 (0.67), meaning BrightCart was actively 
 losing money on advertising that month.
 
-![ROAS Analysis Chart](screenshots/roas_analysis.png)
+<img width="357" height="215" alt="ROAS analysis" src="https://github.com/user-attachments/assets/26fb2dd8-3254-44d1-a7c2-488fb269b7c2" />
+
 
 ### 5. Budget Cut Recommendation
 Cutting the entire Email Marketing budget saves $24,461 annually. 
@@ -68,10 +72,11 @@ Reallocating half of that to TikTok Ads is projected to generate
 $298,000 in additional attributed revenue based on current ROAS 
 performance.
 
-![Dashboard](screenshots/dashboard.png)
+
 
 ## Dashboard Preview
-![Full Dashboard](screenshots/dashboard.png)
+<img width="554" height="386" alt="BrightCart Analysis Screenshot" src="https://github.com/user-attachments/assets/835fd438-741a-44b1-aacf-85b029dd4f31" />
+
 
 ## Recommendations Summary
 1. **Grow Electronics and Toys** — highest and second highest profit 
